@@ -35,7 +35,7 @@
 <!-- Alert untuk pesan terima kasih -->
 <div id="thank-you-alert" class="hidden fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center">
     <div class="bg-white rounded-lg p-8">
-        <h2 class="text-2xl mb-4">Terima kasih atas kunjungan Anda!</h2>
+        <h2 class="text-2xl mb-4">Thank you for your visit!</h2>
         <button id="close-alert"
             class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Close</button>
     </div>
