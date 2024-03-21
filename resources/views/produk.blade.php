@@ -24,7 +24,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/case.jpg') }}" alt="Case" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/tas.jpg') }}" alt="Tas" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/bracelet.jpg') }}" alt="Bracelet" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/binder.jpg') }}" alt="Binder" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/earphone.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/handuk.jpg') }}" alt="Handuk" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/pashmina.jpg') }}" alt="Pashmina" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -194,105 +194,7 @@
                 </div>
                 <div class="px-3 text-right basis-1/3">
                 <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </div>
-    </div>
-    <!-- row 3 -->
-    <div class="flex flex-wrap mt-12 -mx-3">
-        <!-- card1 -->
-        <div class="w-full max-w-full px-3 mb-6 sm:w-1/2 sm:flex-none xl:mb-0 xl:w-1/4">
-        <div class="relative flex flex-col min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
-            <div class="flex-auto p-4">
-            <div class="flex flex-row -mx-3">
-                <div class="flex-none w-2/3 max-w-full px-3">
-                <div>
-                    <p class="mb-0 font-sans text-sm font-semibold leading-normal uppercase dark:text-white dark:opacity-60">Earphone</p>
-                    <h5 class="mb-2 font-bold dark:text-white">Rp 59.000</h5>
-                    <p class="mb-0 dark:text-white dark:opacity-60">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add to Cart</button>
-                    </p>
-                </div>
-                </div>
-                <div class="px-3 text-right basis-1/3">
-                <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </div>
-
-        <!-- card2 -->
-        <div class="w-full max-w-full px-3 mb-6 sm:w-1/2 sm:flex-none xl:mb-0 xl:w-1/4">
-        <div class="relative flex flex-col min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
-            <div class="flex-auto p-4">
-            <div class="flex flex-row -mx-3">
-                <div class="flex-none w-2/3 max-w-full px-3">
-                <div>
-                    <p class="mb-0 font-sans text-sm font-semibold leading-normal uppercase dark:text-white dark:opacity-60">Handuk</p>
-                    <h5 class="mb-2 font-bold dark:text-white">Rp 76.000</h5>
-                    <p class="mb-0 dark:text-white dark:opacity-60">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add to Cart</button>
-                    </p>
-                </div>
-                </div>
-                <div class="px-3 text-right basis-1/3">
-                <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </div>
-
-        <!-- card3 -->
-        <div class="w-full max-w-full px-3 mb-6 sm:w-1/2 sm:flex-none xl:mb-0 xl:w-1/4">
-        <div class="relative flex flex-col min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
-            <div class="flex-auto p-4">
-            <div class="flex flex-row -mx-3">
-                <div class="flex-none w-2/3 max-w-full px-3">
-                <div>
-                    <p class="mb-0 font-sans text-sm font-semibold leading-normal uppercase dark:text-white dark:opacity-60">Pashmina Kaos</p>
-                    <h5 class="mb-2 font-bold dark:text-white">Rp 32.000</h5>
-                    <p class="mb-0 dark:text-white dark:opacity-60">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add to Cart</button>
-                    </p>
-                </div>
-                </div>
-                <div class="px-3 text-right basis-1/3">
-                <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </div>
-
-        <!-- card4 -->
-        <div class="w-full max-w-full px-3 sm:w-1/2 sm:flex-none xl:w-1/4">
-        <div class="relative flex flex-col min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
-            <div class="flex-auto p-4">
-            <div class="flex flex-row -mx-3">
-                <div class="flex-none w-2/3 max-w-full px-3">
-                <div>
-                    <p class="mb-0 font-sans text-sm font-semibold leading-normal uppercase dark:text-white dark:opacity-60">Cushion</p>
-                    <h5 class="mb-2 font-bold dark:text-white">Rp 107.000</h5>
-                    <p class="mb-0 dark:text-white dark:opacity-60">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add to Cart</button>
-                    </p>
-                </div>
-                </div>
-                <div class="px-3 text-right basis-1/3">
-                <div class="inline-block w-12 h-12 text-center rounded-full bg-gradient-to-tl from-blue-500 to-violet-500 overflow-hidden">
-                    <img src="{{ asset('assets/img/home-decor-1.jpg') }}" alt="Earphone" class="object-cover w-full h-full">
+                    <img src="{{ asset('assets/img/cushion.jpg') }}" alt="Cushion" class="object-cover w-full h-full">
                 </div>
                 </div>
             </div>
@@ -314,7 +216,7 @@
             document.write(new Date().getFullYear() + ",");
             </script>
             made with <i class="fa fa-heart"></i> by
-            <a href="https://www.creative-tim.com" class="font-semibold text-slate-700 dark:text-white" target="_blank">Creative Tim</a>
+            <a href="https://www.creative-tim.com" class="font-semibold text-slate-700 dark:text-white" target="_blank">Luthfiyyah</a>
             for a better web.
         </div>
         </div>
