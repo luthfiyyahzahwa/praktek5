@@ -32,7 +32,7 @@
         </div>
     </form>
 </div>
-<!-- Alert untuk pesan terima kasih -->
+
 <div id="thank-you-alert" class="hidden fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center">
     <div class="bg-white rounded-lg p-8">
         <h2 class="text-2xl mb-4">Thank you for your visit!</h2>
@@ -42,15 +42,11 @@
 </div>
 
 <script>
-    // Menangani klik pada tombol Submit
     document.getElementById('submit-button').addEventListener('click', function() {
-        // Menampilkan alert
         document.getElementById('thank-you-alert').classList.remove('hidden');
     });
 
-    // Menangani klik pada tombol Close pada alert
     document.getElementById('close-alert').addEventListener('click', function() {
-        // Menyembunyikan alert
         document.getElementById('thank-you-alert').classList.add('hidden');
     });
 </script>
